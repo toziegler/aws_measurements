@@ -1,2 +1,7 @@
 min, max, avg, stdev, hostname, instance_type
 184316,301831,222938.40,720.36,ip-172-31-8-194.us-west-2.compute.internal,i4i.metal
+144226,454832,186448.88,1187.59,ip-172-31-13-80.us-west-2.compute.internal,i3en.metal
+166536,258882,202588.81,508.04,ip-172-31-44-205.us-west-2.compute.internal,is4gen.8xlarge
+134270,337414,177411.72,820.80,ip-172-31-61-121.us-west-2.compute.internal,r5dn.metal
+242174,557872,271667.25,994.84,ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+144006,296602,182573.39,695.95,ip-172-31-19-246.us-west-2.compute.internal,i3.metal

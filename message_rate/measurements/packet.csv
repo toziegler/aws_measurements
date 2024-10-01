@@ -1,12 +1,61 @@
 ts, packets, hostname, instance_type
-0, 6246394, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-1, 6245956, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-2, 6244715, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-3, 6249873, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-4, 6249537, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-5, 6245912, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-6, 6247530, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-7, 6249016, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-8, 6246885, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-9, 6245275, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
-
+0, 6246394, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+1, 6245956, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+2, 6244715, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+3, 6249873, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+4, 6249537, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+5, 6245912, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+6, 6247530, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+7, 6249016, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+8, 6246885, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+9, 6245275, ip-172-31-6-255.us-west-2.compute.internal,i4i.metal
+0, 6334395, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+1, 6335999, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+2, 6331822, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+3, 6338373, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+4, 6344822, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+5, 6344109, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+6, 6340199, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+7, 6338965, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+8, 6334225, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+9, 6335549, ip-172-31-7-85.us-west-2.compute.internal,i3en.metal
+0, 4145894, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+1, 4141213, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+2, 4146642, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+3, 4140233, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+4, 4142605, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+5, 4150817, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+6, 4136834, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+7, 4140426, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+8, 4136720, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+9, 4140217, ip-172-31-41-202.us-west-2.compute.internal,is4gen.8xlarge
+0, 6181384, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+1, 6181177, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+2, 6182867, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+3, 6182336, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+4, 6183354, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+5, 6185802, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+6, 6185420, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+7, 6183611, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+8, 6184735, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+9, 6184986, ip-172-31-59-129.us-west-2.compute.internal,r5dn.metal
+0, 12802255, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+1, 12790514, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+2, 12796162, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+3, 12772317, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+4, 12790067, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+5, 12789881, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+6, 12785788, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+7, 12799228, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+8, 12797607, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+9, 12793847, ip-172-31-36-171.us-west-2.compute.internal,r6idn.metal
+0, 1954711, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+1, 1954228, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+2, 1952809, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+3, 1952436, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+4, 1954875, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+5, 1952347, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+6, 1951329, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+7, 1952914, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+8, 1952686, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
+9, 1954566, ip-172-31-19-246.us-west-2.compute.internal,i3.metal
