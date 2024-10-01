@@ -1,0 +1,12 @@
+ts, packets, hostname, instance_type
+0, 6246394, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+1, 6245956, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+2, 6244715, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+3, 6249873, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+4, 6249537, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+5, 6245912, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+6, 6247530, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+7, 6249016, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+8, 6246885, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+9, 6245275, ip-172-31-6-255.us-west-2.compute.internal, i4i.metal
+

@@ -1,0 +1,2 @@
+min, max, avg, stdev, hostname, instance_type
+184316,301831,222938.40,720.36,ip-172-31-8-194.us-west-2.compute.internal,i4i.metal
